@@ -1,6 +1,9 @@
+package example;
+
 import java.util.List;
 
-import purejavahidapi.*;
+import purejavahidapi.HidDeviceInfo;
+import purejavahidapi.PureJavaHidApi;
 
 public class Example1 {
 
